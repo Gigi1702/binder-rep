@@ -3,14 +3,14 @@ channels:
   - conda-forge
 dependencies:
   - python=3.9
-  - r-4.0
+  - r-<4.0>
   - numpy
   - matplotlib
   - pandas
   - scikitlearn
   - plotly
-  - dpylyr
-  - ggplot2
-  - reshape2
-  - tidyverse
-  - stringr
+  - r-<dpylyr>
+  - r-<ggplot2>
+  - r-<reshape2>
+  - r-<tidyverse>
+  - r-<stringr>
