@@ -7,9 +7,9 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - scikitlearn
+  - scikit-learn
   - plotly
-  - r-dpylyr
+  - r-dplyr
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
