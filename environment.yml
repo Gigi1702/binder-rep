@@ -7,11 +7,9 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - statsmodels
+  - seaborn
+  - scipy
   - scikit-learn
   - plotly
-  - r-dplyr
-  - r-ggplot2
-  - r-reshape2
-  - r-tidyverse
-  - r-stringr
-  - r-plotly
+  
