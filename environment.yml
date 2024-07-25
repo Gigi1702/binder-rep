@@ -1,14 +1,9 @@
 name: example-environment
 channels:
   - conda-forge
-dependencies:
-  - python=3.9
+dependencies: 
   - r= 4.0
-  - r-dplyr
   - r-ggplot2
-  - r-reshape2
-  - r-tidyverse
-  - r-stringr
   - r-plotly
   - r-caret
   - r-randomForest
